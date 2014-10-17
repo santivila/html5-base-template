@@ -1,0 +1,8 @@
+bower_components
+.sass_cache
+node_modules
+styles.css
+styles.min.css
+styles.css.map
+jquery.min.js
+scripts.min.js

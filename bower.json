@@ -1,0 +1,27 @@
+{
+  "name": "trello_custom_board",
+  "version": "0.0.0",
+  "authors": [
+    "Santi Vila <santi@lavitoverda.net>"
+  ],
+  "description": "A simple trello custom board using the API",
+  "main": "index.html",
+  "keywords": [
+    "Tello",
+    "API",
+    "webapp"
+  ],
+  "license": "MIT",
+  "homepage": "lavitoverda.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap-sass-official": "~3.2.0+2",
+    "fastclick": "~1.0.3"
+  }
+}
